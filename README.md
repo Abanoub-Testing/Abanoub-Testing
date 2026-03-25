@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abanoub (Bebo)</h1>
+<h3 align="center">Software Tester | QA Automation Engineer</h3>
 
-<!--
-**Abanoub-Testing/Abanoub-Testing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Tester;QA%20Automation%20Engineer;API%20Tester;Manual%20Testing%20Specialist;Always%20Learning%20New%20Things&center=true&width=600&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+🔍 Passionate Software Tester focused on delivering high-quality software.
+
+* 🔭 Working on **Manual Testing, Automation Testing, and API Testing**
+* 🌱 Improving **Automation using Selenium, Java, and TestNG**
+* 🧪 Practicing **API Testing with Postman**
+* 🐞 Skilled in **Test Cases, Bug Reporting, and Test Execution**
+
+---
+
+## 🛠️ QA Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,selenium,postman,git,github,maven,idea,vscode"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Abanoub-Testing&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abanoub-Testing&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 QA Projects
+
+🔹 Automation Testing Framework – Selenium + Java + TestNG
+🔹 API Testing Project – Postman
+🔹 Manual Testing Project – Test Cases & Bug Reports
+
+---
+
+## 📫 Connect with me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/abanoub-nabil">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+</p>
