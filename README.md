@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3R6emMwNmd5d3IzdHI3NmU1ZG5odDRneGwwd2g0cHczbXFxMGlwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qZEZ0rTln9581K7Q5/giphy.gif" width="250"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3R6emMwNmd5d3IzdHI3NmU1ZG5odDRneGwwd2g0cHczbXFxMGlwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qZEZ0rTln9581K7Q5/giphy.gif" width="100"/>
 </p>
 <h1 align="center">Hi 👋, I'm Abanoub (Bebo)</h1>
 <h3 align="center">Software Tester | QA Automation Engineer</h3>
