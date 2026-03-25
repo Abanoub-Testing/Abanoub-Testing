@@ -49,7 +49,7 @@
 ## 📫 Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/abanoub-nabil">
+<a href="https://www.linkedin.com/in/abanoub-nabil-qa/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 </p>
